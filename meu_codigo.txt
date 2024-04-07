@@ -1,1 +1,2 @@
-Olá meu nome é Julia sou estudante de tecnologia
+Olá meu nome é Julia 
+nova linha
